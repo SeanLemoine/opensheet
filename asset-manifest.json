@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/opensheet/static/css/main.4e34092d.css",
+    "main.js": "/opensheet/static/js/main.e1a5cabb.js",
+    "index.html": "/opensheet/index.html",
+    "main.4e34092d.css.map": "/opensheet/static/css/main.4e34092d.css.map",
+    "main.e1a5cabb.js.map": "/opensheet/static/js/main.e1a5cabb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e34092d.css",
+    "static/js/main.e1a5cabb.js"
+  ]
+}
